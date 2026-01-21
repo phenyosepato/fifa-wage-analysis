@@ -5,9 +5,9 @@ Analysis of the correlation between FIFA players wages and overall rating using 
 Python, Pandas & Matplotlib
 
 ## What was done:
--Loaded FIFA 22 player data from a csv file then cleaned and selecged the relevant columns. 
--Created a scatter plot to illustrate the correlation between the players overall and their wage.
--Finished off by saving the vizualization as an image. 
+Loaded FIFA 22 player data from a csv file then cleaned and selecged the relevant columns. 
+Created a scatter plot to illustrate the correlation between the players overall and their wage.
+Finished off by saving the vizualization as an image. 
 
 ## Result:
 The analysis shows a very clear positive relationship as players with higher overalls generally earn higher wages.
