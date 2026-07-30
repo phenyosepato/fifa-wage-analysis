@@ -16,7 +16,7 @@ The analysis shows a very clear positive relationship as players with higher ove
 
 ### 1. Player Rating vs Weekly Wage
 
-This scatter plot explores the relationship between a player's overall rating and their weekly wage. While higher-rated players generally earn higher wages, the graph also highlights several high-paid outliers.
+This scatter plot explores the relationship between a player's overall rating and their weekly wage. While higher-rated player generally earn higher wages, the graph also highlights several high-paid outliers.
 
 ![Player Rating vs Wage](images/wage_vs_rating.png)
 
