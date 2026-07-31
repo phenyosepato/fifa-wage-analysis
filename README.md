@@ -18,7 +18,7 @@ The analysis shows a very clear positive relationship as players with higher ove
 
 This scatter plot explores the relationship between a player's overall rating and their weekly wage. While higher-rated player generally earn higher wages, the graph also highlights several high-paid outliers.
 
-![Player Rating vs Wage](images/wage_vs_rating.png)
+![Player Rating vs Wage](wage_vs_rating.png)
 
 ---
 
@@ -26,7 +26,7 @@ This scatter plot explores the relationship between a player's overall rating an
 
 This histogram shows the distribution of FIFA player ratings. Most professional players fall between an overall rating of 60 and 75, while elite players above 85 are comparatively rare.
 
-![Distribution of Player Ratings](images/rating_distribution.png)
+![Distribution of Player Ratings](rating_distribution.png)
 
 ---
 
@@ -34,7 +34,7 @@ This histogram shows the distribution of FIFA player ratings. Most professional 
 
 This bar chart compares the weekly wages of the ten highest-paid players in the dataset. It demonstrates the significant salary gap between football's highest earners and the rest of the player population.
 
-![Top 10 Highest Paid Players](images/top10_wages.png)
+![Top 10 Highest Paid Players](top10_wages.png)
 
 ---
 
@@ -42,7 +42,7 @@ This bar chart compares the weekly wages of the ten highest-paid players in the 
 
 The box plot summarizes the spread of player wages and highlights numerous outliers. This indicates that wage distribution is highly skewed, with a relatively small number of players earning exceptionally high salaries.
 
-![Distribution of Weekly Wages](images/wage_boxplot.png)
+![Distribution of Weekly Wages](wage_boxplot.png)
 
 ---
 
@@ -50,7 +50,7 @@ The box plot summarizes the spread of player wages and highlights numerous outli
 
 The correlation heatmap illustrates the relationships between key numerical player attributes such as age, overall rating, potential, market value, and weekly wage. Strong positive correlations indicate that players with higher ratings generally have greater market values and receive higher wages.
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](correlation_heatmap.png)
 
 ## Author
 First year data science student exploring sport analytics.
